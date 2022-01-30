@@ -1,3 +1,6 @@
+### DEPLOY
+https://fitnessapp-70b6a.web.app/exercise
+
 ### `USE THIS DOMAIN http://localhost:3000/exercise`
 # Getting Started with Create React App
 
